@@ -1,0 +1,13 @@
+[
+    {
+        "id": "b604df31-a105-4f1f-9d21-9d5f2c8f6af1",
+        "title": "PRODUCTO DE PRUEBA 1",
+        "description": "PROBANDO POST CON POSTMAN 1",
+        "price": 500,
+        "thumbnail": "./assets/POSTMAN2.jpg",
+        "code": "ab1",
+        "stock": 20,
+        "status": "false",
+        "category": "PUREBA"
+    }
+]
